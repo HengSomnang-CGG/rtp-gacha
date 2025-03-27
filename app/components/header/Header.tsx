@@ -22,7 +22,7 @@ export default function Header({ toggleSidebar }: HeaderProps) {
                         <div className="relative ">
                             <Link to="/" className="block" aria-label="Read more about Seminole tax hike">
                                 <div className="flex h-full items-center">
-                                    {/* <img alt="" 
+                                    <img alt="" 
                                     src="https://res.cloudinary.com/dmpwyrbid/image/upload/v1742871115/527f326b-aade-4219-88b0-ddfbeb09636d_xvajeq.gif" 
                                     className="max-w-[150px] w-full h-auto object-contain"
                                     loading="lazy" 
@@ -33,14 +33,14 @@ export default function Header({ toggleSidebar }: HeaderProps) {
                                     //     https://res.cloudinary.com/dmpwyrbid/image/upload/v1742871115/527f326b-aade-4219-88b0-ddfbeb09636d_xvajeq.gif 2400w, 
                                     //     https://res.cloudinary.com/dmpwyrbid/image/upload/v1742871115/527f326b-aade-4219-88b0-ddfbeb09636d_xvajeq.gif 3200w, 
                                     //     https://res.cloudinary.com/dmpwyrbid/image/upload/v1742871115/527f326b-aade-4219-88b0-ddfbeb09636d_xvajeq.gif 4000w`}
-                                    /> */}
-                                    <video
+                                    />
+                                    {/* <video
                                         src="/logo.webm"
                                         className="max-w-[150px] w-full h-auto object-contain"
                                         autoPlay
                                         loop
                                         muted
-                                    />
+                                    /> */}
                                 </div>
                             </Link>
                         </div>

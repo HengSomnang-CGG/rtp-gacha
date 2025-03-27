@@ -47,6 +47,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <meta property="og:description" content="Raja Gacha adalah situs gacha slot gacor gampang menang pragmatic play anti rungkad dengan rtp slot terupdate, buruan cobain game gacha slot auto bikin kaya raya to the moon."></meta>
         <meta name="google-site-verification" content="<meta name=&quot;google-site-verification&quot; content=&quot;fmJgEDv98BjFvMCXr58_h2rFeMJLyT7KKfGshBMhP3c&quot; />"></meta>
         <meta name="og:type" content="website"></meta>
+         <link rel="amphtml" href="https://www.spaceman88-amp.com/" />
         <Meta />
         <Links />
       </head>

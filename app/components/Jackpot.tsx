@@ -1,8 +1,9 @@
 import { useCallback, useEffect, useRef, useState } from "react"
 
-const START_VALUE = 0 // The jackpot value when the count started
-const START_TIME = new Date("2025-03-24T00:00:00Z").getTime() // Adjust as needed
-const RATE_PER_MS = 51.90634 // Increase rate (adjust to your preference)
+const START_VALUE = 0
+const START_TIME = new Date("2025-03-24T00:00:00Z").getTime()
+const BASE_RATE_PER_MS = 15
+const FLUCTUATION_RANGE = 0.0000001 // Up to ±30% fluctuation
 
 export default function Jackport() {
     const [jackpot, setJackpot] = useState(START_VALUE)
@@ -10,50 +11,59 @@ export default function Jackport() {
 
     const updateJackpot = useCallback(() => {
         const now = Date.now()
-        const timeElapsed = now - START_TIME
-        const currentJackpot = Math.floor(START_VALUE + timeElapsed * RATE_PER_MS)
-        setJackpot(currentJackpot)
+        const elapsed = now - START_TIME
+
+        // Random fluctuation factor between -FLUCTUATION_RANGE and +FLUCTUATION_RANGE
+        const fluctuation = (Math.random() * 2 - 1) * FLUCTUATION_RANGE
+
+        const rateWithFluctuation = BASE_RATE_PER_MS * (1 + fluctuation)
+        const current = Math.floor(START_VALUE + elapsed * rateWithFluctuation)
+
+        setJackpot(current)
         frameRef.current = requestAnimationFrame(updateJackpot)
     }, [])
 
     useEffect(() => {
         frameRef.current = requestAnimationFrame(updateJackpot)
-        return () => cancelAnimationFrame(frameRef.current!)
+        return () => {
+            if (frameRef.current) cancelAnimationFrame(frameRef.current)
+        }
     }, [updateJackpot])
 
-    const formattedJackpot = jackpot.toLocaleString().replace(/,/g, ',')
+    const formattedJackpot = jackpot.toLocaleString("en-US")
 
     return (
         <div className="pt-1 pb-1 xl:mx-56">
-            <section className="px-3 w-full my-0 mx-auto">
+            <section className="px-3 w-full mx-auto">
                 <div className="flex flex-col items-center">
-                    <div className=" relative w-full pb-[18.660287081339714%]">
-                        <div className="absolute top-0 right-0 bottom-0 left-0">
+                    <div className="relative w-full pb-[18.66%]">
+                        <div className="absolute inset-0">
                             <div className="flex items-center w-full h-full">
-                                <span className="box-border overflow-hidden bg-none opacity-[1] absolute border-0 m-0 p-0 top-0 left-0 bottom-0 right-0">
+                                {/* Background Image */}
+                                <span className="absolute inset-0 overflow-hidden">
                                     <img
                                         src="https://res.cloudinary.com/dmpwyrbid/image/upload/v1742882094/jackpot-bg-1_zxgrlw.webp"
                                         alt="jackpot"
                                         className="absolute inset-0 w-full h-full object-contain"
-                                        sizes="(max-width: 768px) 100vw, 50vw"
                                         loading="lazy"
-                                        decoding="auto"
+                                        decoding="async"
                                         width={800}
                                         height={500}
                                         srcSet="
                                             https://res.cloudinary.com/dmpwyrbid/image/upload/c_pad,w_800/v1742882094/jackpot-bg-1_zxgrlw.webp 800w,
-                                            https://res.cloudinary.com/dmpwyrbid/image/upload/v1742882094/jackpot-bg-1_zxgrlw.webp 1600w
-  "
+                                            https://res.cloudinary.com/dmpwyrbid/image/upload/v1742882094/jackpot-bg-1_zxgrlw.webp 1600w"
+                                        sizes="(max-width: 768px) 100vw, 50vw"
                                     />
                                 </span>
-                                <div className="flex relative overflow-hidden z-0 justify-center items-center w-full h-full ml-[20%] mt-[2%] ">
-                                    <span className="xs:text-[21px] md:text-[45px] lg:text-[50px] xl:text-[70px] h-6 md:h-12 lg:h-16 xl:h-20 leading-[1.2] font-[800] items-center z-[1] tracking-[0.12em]">
-                                        <div>
-                                            <span className="liearCustom inline leading-[1.2] m-0 font-[800]">
-                                                {formattedJackpot}
-                                            </span>
-                                        </div>
+
+                                {/* Jackpot Number */}
+                                <div className="flex justify-center items-center w-full h-full ml-[20%] mt-[2%] relative z-10">
+                                    <span className="xs:text-[20px] md:text-[35px] lg:text-[50px] xl:text-[40px] 2xl:text-[50px] font-extrabold tracking-[0.12em]">
+                                        <span className="liearCustom inline leading-[1.2]">
+                                            {formattedJackpot}
+                                        </span>
                                     </span>
+
                                 </div>
                             </div>
                         </div>

@@ -52,7 +52,7 @@ export default function HeaderNav() {
                     <div className=" top-0 bottom-0 relative flex flex-1">
                         <Link to="/">
                             <div className="flex w-full items-center">
-                                {/* <img
+                                <img
                                     alt="logo"
                                     src="./logo.webm"
                                     className="h-[42px] w-[240px] z-[1] object-contain max-w-full"
@@ -63,14 +63,14 @@ export default function HeaderNav() {
                                         https://res.cloudinary.com/dmpwyrbid/image/upload/v1742871115/527f326b-aade-4219-88b0-ddfbeb09636d_xvajeq.gif 2400w, 
                                         https://res.cloudinary.com/dmpwyrbid/image/upload/v1742871115/527f326b-aade-4219-88b0-ddfbeb09636d_xvajeq.gif 3200w, 
                                         https://res.cloudinary.com/dmpwyrbid/image/upload/v1742871115/527f326b-aade-4219-88b0-ddfbeb09636d_xvajeq.gif 4000w`}
-                                /> */}
-                                <video
+                                />
+                                {/* <video
                                     src="/logo.webm"
                                     className="h-[42px] w-[240px] z-[1] object-contain max-w-full"
                                     autoPlay
                                     loop
                                     muted
-                                ></video>
+                                ></video> */}
                             </div>
                         </Link>
                     </div>
