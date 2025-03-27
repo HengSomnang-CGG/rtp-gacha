@@ -1,0 +1,3411 @@
+[
+    {
+      "name": "slot",
+      "data": [
+        {
+          "name": "Pragmatic Play",
+          "image": "/images/RTPImage/pragmaticplay.webp",
+          "tags": [
+            "/images/gametag/1db9dee7-bad6-4fc7-abde-49b783888d3b.svg",
+            "/images/gametag/533bd442-8af2-4cad-a15d-70c23374841d.svg",
+            "/images/gametag/54dcf891-a253-48e5-8e88-bf54fefe1d52.svg"
+          ],
+          "games": [
+            {
+              "id": "0192cf1d-e06e-860a-1581-b2859ccd5562",
+              "name": "Mahjong Wins 3 - Black Scatter",
+              "image": "/images/RtpGame/pragmaticplay/vswaysmahwblck.webp",
+
+              "tags": [
+                {
+                  "name": "HOT GAMES",
+                  "color": "#FF0303",
+                  "url": "/images/gametag/54dcf891-a253-48e5-8e88-bf54fefe1d52.svg"
+                }
+              ]
+            },
+            {
+              "id": "018d3534-6d3d-694c-c7bc-aac786863f9c",
+              "name": "Gates of Olympus",
+              "image": "/images/RtpGame/pragmaticplay/vs20olympgate.webp",
+
+              "tags": [
+                {
+                  "name": "BIG WIN",
+                  "color": "#FF00F7",
+                  "url": "/images/gametag/533bd442-8af2-4cad-a15d-70c23374841d.svg"
+                },
+                {
+                  "name": "HOT GAMES",
+                  "color": "#FF0303",
+                  "url": "/images/gametag/54dcf891-a253-48e5-8e88-bf54fefe1d52.svg"
+                },
+                {
+                  "name": "JACKPOT",
+                  "color": "#FFDE8A",
+                  "url": "/images/gametag/71b9c845-b301-476f-9b6a-42dd609987d5.svg"
+                }
+              ]
+            },
+            {
+              "id": "018d3534-6d3e-a197-67ce-1c2d84f56a25",
+              "name": "Sugar Rush",
+              "image": "/images/RtpGame/pragmaticplay/vs20sugarrush.webp",
+
+              "tags": [
+                {
+                  "name": "HOT GAMES",
+                  "color": "#FF0303",
+                  "url": "/images/gametag/54dcf891-a253-48e5-8e88-bf54fefe1d52.svg"
+                },
+                {
+                  "name": "BIG WIN",
+                  "color": "#FF00F7",
+                  "url": "/images/gametag/533bd442-8af2-4cad-a15d-70c23374841d.svg"
+                },
+                {
+                  "name": "DAILY JACKPOT",
+                  "color": "#FFEA82",
+                  "url": "/images/gametag/e09e727d-0bb6-44ad-b1af-7bb2e274398f.svg"
+                }
+              ]
+            },
+            {
+              "id": "018d3534-6d3e-a197-67ce-1c2d84f56a27",
+              "name": "Sweet Bonanza",
+              "image": "/images/RtpGame/pragmaticplay/vs20fruitsw.webp",
+
+              "tags": [
+                {
+                  "name": "BIG WIN",
+                  "color": "#FF00F7",
+                  "url": "/images/gametag/533bd442-8af2-4cad-a15d-70c23374841d.svg"
+                },
+                {
+                  "name": "HOT GAMES",
+                  "color": "#FF0303",
+                  "url": "/images/gametag/54dcf891-a253-48e5-8e88-bf54fefe1d52.svg"
+                },
+                {
+                  "name": "DAILY JACKPOT",
+                  "color": "#FFEA82",
+                  "url": "/images/gametag/e09e727d-0bb6-44ad-b1af-7bb2e274398f.svg"
+                }
+              ]
+            },
+            {
+              "id": "018d3534-6d3e-a197-67ce-1c2d84f56a29",
+              "name": "Starlight Princess",
+              "image": "/images/RtpGame/pragmaticplay/vs20starlight.webp",
+
+              "tags": [
+                {
+                  "name": "BIG WIN",
+                  "color": "#FF00F7",
+                  "url": "/images/gametag/533bd442-8af2-4cad-a15d-70c23374841d.svg"
+                },
+                {
+                  "name": "HOT GAMES",
+                  "color": "#FF0303",
+                  "url": "/images/gametag/54dcf891-a253-48e5-8e88-bf54fefe1d52.svg"
+                },
+                {
+                  "name": "DAILY JACKPOT",
+                  "color": "#FFEA82",
+                  "url": "/images/gametag/e09e727d-0bb6-44ad-b1af-7bb2e274398f.svg"
+                }
+              ]
+            },
+            {
+              "id": "018d3534-6d3f-bf73-b03c-a5911013ea45",
+              "name": "Sweet Bonanza Xmas",
+              "image": "/images/RtpGame/pragmaticplay/vs20sbxmas.webp",
+
+              "tags": [
+                {
+                  "name": "DAILY JACKPOT",
+                  "color": "#FFEA82",
+                  "url": "/images/gametag/e09e727d-0bb6-44ad-b1af-7bb2e274398f.svg"
+                },
+                {
+                  "name": "HOT GAMES",
+                  "color": "#FF0303",
+                  "url": "/images/gametag/54dcf891-a253-48e5-8e88-bf54fefe1d52.svg"
+                },
+                {
+                  "name": "BIG WIN",
+                  "color": "#FF00F7",
+                  "url": "/images/gametag/533bd442-8af2-4cad-a15d-70c23374841d.svg"
+                }
+              ]
+            },
+            {
+              "id": "018de5e8-5739-ad28-08a5-e6db73454326",
+              "name": "Power of Ninja",
+              "image": "/images/RtpGame/pragmaticplay/vs20ninjapower.webp",
+
+              "tags": [
+                {
+                  "name": "NEW",
+                  "color": "#00E8F0",
+                  "url": "/images/gametag/1db9dee7-bad6-4fc7-abde-49b783888d3b.svg"
+                }
+              ]
+            },
+            {
+              "id": "01945bb6-10fa-fb96-b017-9a0a9f13a221",
+              "name": "Mahjong Wins - Gong Xi Fa Cai",
+              "image": "/images/RtpGame/pragmaticplay/vswaysmahwgong.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3534-6d3e-a197-67ce-1c2d84f56a23",
+              "name": "Gates of Olympus 1000",
+              "image": "/images/RtpGame/pragmaticplay/vs20olympx.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3534-6d3e-a197-67ce-1c2d84f56a2b",
+              "name": "5 Lions Megaways",
+              "image": "/images/RtpGame/pragmaticplay/vswayslions.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3534-6d3f-bf73-b03c-a5911013ea41",
+              "name": "Starlight Princess 1000",
+              "image": "/images/RtpGame/pragmaticplay/vs20starlightx.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3534-6d3f-bf73-b03c-a5911013ea43",
+              "name": "The Dog House Megaways",
+              "image": "/images/RtpGame/pragmaticplay/vswaysdogs.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "pgsoft",
+          "image": "/images/RTPImage/pgsoft.webp",
+          "tags": [
+            "/images/gametag/54dcf891-a253-48e5-8e88-bf54fefe1d52.svg",
+            "/images/gametag/533bd442-8af2-4cad-a15d-70c23374841d.svg"
+          ],
+          "games": [
+            {
+              "id": "018d355a-1f31-b2f1-5a4d-430b3395b624",
+              "name": "Mahjong Ways",
+              "image": "/images/RtpGame/pgsoft/65.webp",
+
+              "tags": [
+                {
+                  "name": "JACKPOT",
+                  "color": "#FFDE8A",
+                  "url": "/images/gametag/71b9c845-b301-476f-9b6a-42dd609987d5.svg"
+                },
+                {
+                  "name": "HOT GAMES",
+                  "color": "#FF0303",
+                  "url": "/images/gametag/54dcf891-a253-48e5-8e88-bf54fefe1d52.svg"
+                },
+                {
+                  "name": "BIG WIN",
+                  "color": "#FF00F7",
+                  "url": "/images/gametag/533bd442-8af2-4cad-a15d-70c23374841d.svg"
+                }
+              ]
+            },
+            {
+              "id": "018d355a-1f32-0ede-4f0c-05541b8e738a",
+              "name": "Mahjong Ways 2",
+              "image": "/images/RtpGame/pgsoft/74.webp",
+
+              "tags": [
+                {
+                  "name": "HOT GAMES",
+                  "color": "#FF0303",
+                  "url": "/images/gametag/54dcf891-a253-48e5-8e88-bf54fefe1d52.svg"
+                },
+                {
+                  "name": "JACKPOT",
+                  "color": "#FFDE8A",
+                  "url": "/images/gametag/71b9c845-b301-476f-9b6a-42dd609987d5.svg"
+                },
+                {
+                  "name": "BIG WIN",
+                  "color": "#FF00F7",
+                  "url": "/images/gametag/533bd442-8af2-4cad-a15d-70c23374841d.svg"
+                }
+              ]
+            },
+            {
+              "id": "018d355a-1f32-0ede-4f0c-05541b8e738c",
+              "name": "Ganesha Fortune",
+              "image": "/images/RtpGame/pgsoft/75.webp",
+
+              "tags": [
+                {
+                  "name": "HOT GAMES",
+                  "color": "#FF0303",
+                  "url": "/images/gametag/54dcf891-a253-48e5-8e88-bf54fefe1d52.svg"
+                },
+                {
+                  "name": "JACKPOT",
+                  "color": "#FFDE8A",
+                  "url": "/images/gametag/71b9c845-b301-476f-9b6a-42dd609987d5.svg"
+                },
+                {
+                  "name": "BIG WIN",
+                  "color": "#FF00F7",
+                  "url": "/images/gametag/533bd442-8af2-4cad-a15d-70c23374841d.svg"
+                }
+              ]
+            },
+            {
+              "id": "018d355a-1f33-3e0f-282a-546584f9230e",
+              "name": "Lucky Neko",
+              "image": "/images/RtpGame/pgsoft/89.webp",
+
+              "tags": [
+                {
+                  "name": "HOT GAMES",
+                  "color": "#FF0303",
+                  "url": "/images/gametag/54dcf891-a253-48e5-8e88-bf54fefe1d52.svg"
+                },
+                {
+                  "name": "JACKPOT",
+                  "color": "#FFDE8A",
+                  "url": "/images/gametag/71b9c845-b301-476f-9b6a-42dd609987d5.svg"
+                },
+                {
+                  "name": "BIG WIN",
+                  "color": "#FF00F7",
+                  "url": "/images/gametag/533bd442-8af2-4cad-a15d-70c23374841d.svg"
+                }
+              ]
+            },
+            {
+              "id": "018d355a-1f34-4011-456e-99ed9e3d76cf",
+              "name": "Wild Bandito",
+              "image": "/images/RtpGame/pgsoft/104.webp",
+
+              "tags": [
+                {
+                  "name": "BIG WIN",
+                  "color": "#FF00F7",
+                  "url": "/images/gametag/533bd442-8af2-4cad-a15d-70c23374841d.svg"
+                },
+                {
+                  "name": "JACKPOT",
+                  "color": "#FFDE8A",
+                  "url": "/images/gametag/71b9c845-b301-476f-9b6a-42dd609987d5.svg"
+                },
+                {
+                  "name": "HOT GAMES",
+                  "color": "#FF0303",
+                  "url": "/images/gametag/54dcf891-a253-48e5-8e88-bf54fefe1d52.svg"
+                }
+              ]
+            },
+            {
+              "id": "018d355a-1f34-4011-456e-99ed9e3d76d3",
+              "name": "Ways of the Qilin",
+              "image": "/images/RtpGame/pgsoft/106.webp",
+
+              "tags": [
+                {
+                  "name": "HOT GAMES",
+                  "color": "#FF0303",
+                  "url": "/images/gametag/54dcf891-a253-48e5-8e88-bf54fefe1d52.svg"
+                },
+                {
+                  "name": "BIG WIN",
+                  "color": "#FF00F7",
+                  "url": "/images/gametag/533bd442-8af2-4cad-a15d-70c23374841d.svg"
+                },
+                {
+                  "name": "JACKPOT",
+                  "color": "#FFDE8A",
+                  "url": "/images/gametag/71b9c845-b301-476f-9b6a-42dd609987d5.svg"
+                }
+              ]
+            },
+            {
+              "id": "018d355a-1f36-081e-e7be-e84620780d4e",
+              "name": "Wild Bounty Showdown",
+              "image": "/images/RtpGame/pgsoft/135.webp",
+
+              "tags": [
+                {
+                  "name": "JACKPOT",
+                  "color": "#FFDE8A",
+                  "url": "/images/gametag/71b9c845-b301-476f-9b6a-42dd609987d5.svg"
+                },
+                {
+                  "name": "HOT GAMES",
+                  "color": "#FF0303",
+                  "url": "/images/gametag/54dcf891-a253-48e5-8e88-bf54fefe1d52.svg"
+                },
+                {
+                  "name": "BIG WIN",
+                  "color": "#FF00F7",
+                  "url": "/images/gametag/533bd442-8af2-4cad-a15d-70c23374841d.svg"
+                }
+              ]
+            },
+            {
+              "id": "018d355a-1f2d-f4ef-f871-fa4f89a0b7a9",
+              "name": "Honey Trap of Diao Chan",
+              "image": "/images/RtpGame/pgsoft/1.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d355a-1f2e-de36-d143-137d7074fbf2",
+              "name": "Gem Saviour",
+              "image": "/images/RtpGame/pgsoft/2.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d355a-1f2e-de36-d143-137d7074fbf4",
+              "name": "Fortune Gods",
+              "image": "/images/RtpGame/pgsoft/3.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d355a-1f2f-917c-50ee-b9b24065c5f0",
+              "name": "Medusa 2: The Quest of Perseus",
+              "image": "/images/RtpGame/pgsoft/6.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d355a-1f2f-917c-50ee-b9b24065c5f2",
+              "name": "Medusa 1: The Curse of Athena",
+              "image": "/images/RtpGame/pgsoft/7.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "advantplay",
+          "image": "/images/RTPImage/advantplay.webp",
+          "tags": [
+            "/images/gametag/54dcf891-a253-48e5-8e88-bf54fefe1d52.svg",
+            "/images/gametag/533bd442-8af2-4cad-a15d-70c23374841d.svg"
+          ],
+          "games": [
+            {
+              "id": "0192d652-0a16-84dd-ceb2-5a5856cca9fa",
+              "name": "Aztec: Bonus Hunt 2",
+              "image": "/images/RtpGame/advantplay/icon_10052_200x200_transparent_en.webp?1738736558",
+
+              "tags": []
+            },
+            {
+              "id": "0192d652-0a18-5724-da48-67b40edab9a0",
+              "name": "Maya: Elemental Totem",
+              "image": "/images/RtpGame/advantplay/icon_10046_200x200_transparent_en.webp?1738736558",
+
+              "tags": []
+            },
+            {
+              "id": "0192d652-0a18-5724-da48-67b40edab9a2",
+              "name": "Dragon Chi’s Quest ",
+              "image": "/images/RtpGame/advantplay/icon_10044_200x200_transparent_en.webp?1738736558",
+
+              "tags": []
+            },
+            {
+              "id": "0192d652-0a18-5724-da48-67b40edab9a4",
+              "name": "Rush Hour Gold",
+              "image": "/images/RtpGame/advantplay/icon_10058_200x200_transparent_en.webp?1738736558",
+
+              "tags": []
+            },
+            {
+              "id": "0192d652-0a18-5724-da48-67b40edab9a6",
+              "name": "Buffalo Rush",
+              "image": "/images/RtpGame/advantplay/icon_10059_200x200_transparent_en.webp?1738736558",
+
+              "tags": []
+            },
+            {
+              "id": "0192d652-0a19-a892-ff13-ec70250790d4",
+              "name": "Jumanji Bonanza",
+              "image": "/images/RtpGame/advantplay/icon_10061_200x200_transparent_en.webp?1738736558",
+
+              "tags": []
+            },
+            {
+              "id": "0192d652-0a19-a892-ff13-ec70250790d6",
+              "name": "Starry Adventure",
+              "image": "/images/RtpGame/advantplay/icon_10055_200x200_transparent_en.webp?1738736558",
+
+              "tags": []
+            },
+            {
+              "id": "0192d652-0a19-a892-ff13-ec70250790d8",
+              "name": "Phantom Multiplier",
+              "image": "/images/RtpGame/advantplay/icon_10056_200x200_transparent_en.webp?1738736558",
+
+              "tags": []
+            },
+            {
+              "id": "0192d652-0a19-a892-ff13-ec70250790da",
+              "name": "Rhapsody of Muertos",
+              "image": "/images/RtpGame/advantplay/icon_10057_200x200_transparent_en.webp?1738736558",
+
+              "tags": []
+            },
+            {
+              "id": "0192d652-0a19-a892-ff13-ec70250790dc",
+              "name": "Kingyo Riches",
+              "image": "/images/RtpGame/advantplay/icon_10054_200x200_transparent_en.webp?1738736558",
+
+              "tags": []
+            },
+            {
+              "id": "0192d652-0a19-a892-ff13-ec70250790de",
+              "name": "Fish Prawn Crab Bonanza",
+              "image": "/images/RtpGame/advantplay/icon_10050_200x200_transparent_en.webp?1738736558",
+
+              "tags": []
+            },
+            {
+              "id": "0192d652-0a19-a892-ff13-ec70250790e0",
+              "name": "Ramakien Blessing",
+              "image": "/images/RtpGame/advantplay/icon_10053_200x200_transparent_en.webp?1738736558",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "joker",
+          "image": "/images/RTPImage/joker.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d3543-68ae-bc1d-3e9b-e6defeb93248",
+              "name": "Sweet Tooth",
+              "image": "/images/RtpGame/joker/ynknc6m6x7684.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3543-68af-a4b8-05a2-0bf798690079",
+              "name": "Warrior",
+              "image": "/images/RtpGame/joker/qmufydacbwbyg.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3543-68af-a4b8-05a2-0bf79869007b",
+              "name": "Leprechaun",
+              "image": "/images/RtpGame/joker/zezjtt6ras7ms.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3543-68af-a4b8-05a2-0bf79869007d",
+              "name": "Date With Miyo",
+              "image": "/images/RtpGame/joker/4py9dmfpwkt4y.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3543-68af-a4b8-05a2-0bf79869007f",
+              "name": "Kraken Hunter",
+              "image": "/images/RtpGame/joker/ooekf9x16xaxn.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3543-68af-a4b8-05a2-0bf798690081",
+              "name": "Buccaneer Deluxe",
+              "image": "/images/RtpGame/joker/bsp1s4umpbwsh.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3543-68af-a4b8-05a2-0bf798690083",
+              "name": "Fruit Paradise",
+              "image": "/images/RtpGame/joker/uh4amsg355x7a.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3543-68af-a4b8-05a2-0bf798690085",
+              "name": "Roma Legacy",
+              "image": "/images/RtpGame/joker/ape6dxf7sk35y.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3543-68b0-d6a1-e430-52bd92aed348",
+              "name": "Wealth God",
+              "image": "/images/RtpGame/joker/e9qs4cbtga5ue.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3543-68b0-d6a1-e430-52bd92aed34a",
+              "name": "Roma",
+              "image": "/images/RtpGame/joker/5m6k9j7rwspjs.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3543-68b0-d6a1-e430-52bd92aed34c",
+              "name": "Mayan Gems",
+              "image": "/images/RtpGame/joker/ha1jzrho1gmjq.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3543-68b0-d6a1-e430-52bd92aed34e",
+              "name": "Sizzling Hot",
+              "image": "/images/RtpGame/joker/ww3a8wsu4de7c.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "spade",
+          "image": "/images/RTPImage/spade.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d3925-fb48-eb7a-653e-a8b751cb1cfd",
+              "name": "Candy Pop 2",
+              "image": "/images/RtpGame/spade/S-CP03.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3925-fb49-3d50-66f6-f5bb31825707",
+              "name": "Farmland Frenzy Maxways",
+              "image": "/images/RtpGame/spade/S-FF01.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3925-fb49-3d50-66f6-f5bb31825709",
+              "name": "Caishen Deluxe Maxways",
+              "image": "/images/RtpGame/spade/S-CS03.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3925-fb49-3d50-66f6-f5bb3182570b",
+              "name": "Rabbit Riches",
+              "image": "/images/RtpGame/spade/S-RR01.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3925-fb49-3d50-66f6-f5bb3182570d",
+              "name": "Christmas Miracles",
+              "image": "/images/RtpGame/spade/S-CM02.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3925-fb49-3d50-66f6-f5bb3182570f",
+              "name": "Panda Opera",
+              "image": "/images/RtpGame/spade/S-PO02.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3925-fb49-3d50-66f6-f5bb31825711",
+              "name": "Halloween Vacation",
+              "image": "/images/RtpGame/spade/S-HV01.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3925-fb49-3d50-66f6-f5bb31825713",
+              "name": "Legacy of Kong Maxways",
+              "image": "/images/RtpGame/spade/S-LK03.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3925-fb49-3d50-66f6-f5bb31825715",
+              "name": "Sugar Party",
+              "image": "/images/RtpGame/spade/S-SP04.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3925-fb49-3d50-66f6-f5bb31825717",
+              "name": "Captain Golds Fortune",
+              "image": "/images/RtpGame/spade/S-CG01.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3925-fb49-3d50-66f6-f5bb31825719",
+              "name": "Journey to the Wild",
+              "image": "/images/RtpGame/spade/S-JW01.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3925-fb49-3d50-66f6-f5bb3182571b",
+              "name": "Fruits Mania",
+              "image": "/images/RtpGame/spade/S-FM03.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "cq9",
+          "image": "/images/RTPImage/cq9.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d35b8-2d4c-fe73-d030-c98af1c21e02",
+              "name": "FruitKing",
+              "image": "/images/RtpGame/cq9/cq9-1.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d35b8-2d4d-1f62-771c-4310b305c2f1",
+              "name": "LuckyBats",
+              "image": "/images/RtpGame/cq9/cq9-10.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d35b8-2d4d-1f62-771c-4310b305c2f3",
+              "name": "Fly Out",
+              "image": "/images/RtpGame/cq9/cq9-111.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d35b8-2d4d-1f62-771c-4310b305c2f5",
+              "name": "Flying Cai Shen",
+              "image": "/images/RtpGame/cq9/cq9-113.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d35b8-2d4d-1f62-771c-4310b305c2f7",
+              "name": "Snow Queen",
+              "image": "/images/RtpGame/cq9/cq9-115.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d35b8-2d4d-1f62-771c-4310b305c2f9",
+              "name": "5 God beasts",
+              "image": "/images/RtpGame/cq9/cq9-117.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d35b8-2d4d-1f62-771c-4310b305c2fb",
+              "name": "TreasureHouse",
+              "image": "/images/RtpGame/cq9/cq9-12.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d35b8-2d4d-1f62-771c-4310b305c2fd",
+              "name": "Zuma Wild",
+              "image": "/images/RtpGame/cq9/cq9-122.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d35b8-2d4d-1f62-771c-4310b305c2ff",
+              "name": "Invincible Elephant",
+              "image": "/images/RtpGame/cq9/cq9-124.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d35b8-2d4d-1f62-771c-4310b305c301",
+              "name": "Zeus M",
+              "image": "/images/RtpGame/cq9/cq9-125.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d35b8-2d4d-1f62-771c-4310b305c303",
+              "name": "God of War M",
+              "image": "/images/RtpGame/cq9/cq9-127.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d35b8-2d4d-1f62-771c-4310b305c305",
+              "name": "Wheel Money",
+              "image": "/images/RtpGame/cq9/cq9-128.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "habanero",
+          "image": "/images/RTPImage/habanero.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d358e-3d15-ea37-5abb-88b41dbca1bc",
+              "name": "Fruity Mayan",
+              "image": "/images/RtpGame/habanero/SGFruityMayan.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d358e-3d16-ab33-689a-7d83b7f58fd5",
+              "name": "Fruity Halloween",
+              "image": "/images/RtpGame/habanero/SGFruityHalloween.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d358e-3d16-ab33-689a-7d83b7f58fd7",
+              "name": "Slime Party",
+              "image": "/images/RtpGame/habanero/SGSlimeParty.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d358e-3d16-ab33-689a-7d83b7f58fd9",
+              "name": "Meow Janken",
+              "image": "/images/RtpGame/habanero/SGMeowJanken.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d358e-3d16-ab33-689a-7d83b7f58fdb",
+              "name": "Bikini Island Deluxe",
+              "image": "/images/RtpGame/habanero/SGBikiniIslandDeluxe.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d358e-3d16-ab33-689a-7d83b7f58fdd",
+              "name": "Zeus Deluxe",
+              "image": "/images/RtpGame/habanero/SGZeusDeluxe.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d358e-3d16-ab33-689a-7d83b7f58fdf",
+              "name": "Tooty Fruity Fruits",
+              "image": "/images/RtpGame/habanero/SGTootyFruityFruits.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d358e-3d16-ab33-689a-7d83b7f58fe1",
+              "name": "Atomic Kittens",
+              "image": "/images/RtpGame/habanero/SGAtomicKittens.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d358e-3d16-ab33-689a-7d83b7f58fe3",
+              "name": "Witches Tome",
+              "image": "/images/RtpGame/habanero/SGWitchesTome.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d358e-3d16-ab33-689a-7d83b7f58fe5",
+              "name": "Santa's Inn",
+              "image": "/images/RtpGame/habanero/SGSantasInn.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d358e-3d16-ab33-689a-7d83b7f58fe7",
+              "name": "The Big Deal Deluxe",
+              "image": "/images/RtpGame/habanero/SGTheBigDealDeluxe.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d358e-3d16-ab33-689a-7d83b7f58fe9",
+              "name": "Legend Of Nezha",
+              "image": "/images/RtpGame/habanero/SGLegendOfNezha.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "jdb",
+          "image": "/images/RTPImage/jdb.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d356f-9b05-6f3b-6092-ad342a474964",
+              "name": "Lucky Miner",
+              "image": "/images/RtpGame/jdb/JDB-SLOT-004.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-9b05-6f3b-6092-ad342a47496e",
+              "name": "Wild Beauty",
+              "image": "/images/RtpGame/jdb/JDB-SLOT-009.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-9b05-6f3b-6092-ad342a474970",
+              "name": "Flirting Scholar Tang",
+              "image": "/images/RtpGame/jdb/JDB-SLOT-010.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-9b05-6f3b-6092-ad342a474972",
+              "name": "Winning Mask",
+              "image": "/images/RtpGame/jdb/JDB-SLOT-011.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-9b05-6f3b-6092-ad342a474974",
+              "name": "Wu Kong",
+              "image": "/images/RtpGame/jdb/JDB-SLOT-012.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-9b05-6f3b-6092-ad342a474976",
+              "name": "Llama Adventure",
+              "image": "/images/RtpGame/jdb/JDB-SLOT-013.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-9b05-6f3b-6092-ad342a474978",
+              "name": "Formosa Bear",
+              "image": "/images/RtpGame/jdb/JDB-SLOT-014.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-9b05-6f3b-6092-ad342a47497a",
+              "name": "Lucky Qilin",
+              "image": "/images/RtpGame/jdb/JDB-SLOT-015.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-9b06-e78a-a243-744fb7438474",
+              "name": "New Year",
+              "image": "/images/RtpGame/jdb/JDB-SLOT-016.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-9b06-e78a-a243-744fb7438476",
+              "name": "Four Treasures",
+              "image": "/images/RtpGame/jdb/JDB-SLOT-017.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-9b06-e78a-a243-744fb7438478",
+              "name": "Open Sesame",
+              "image": "/images/RtpGame/jdb/JDB-SLOT-018.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-9b06-e78a-a243-744fb743847a",
+              "name": "Banana Saga",
+              "image": "/images/RtpGame/jdb/JDB-SLOT-019.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "microgaming",
+          "image": "/images/RTPImage/microgaming.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d4003-d2fc-e883-a060-0b9e6ec89fd2",
+              "name": "10000 Wishes",
+              "image": "/images/RtpGame/microgaming/SMG_10000Wishes.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4003-d2fd-3ece-0170-babb246c8d9a",
+              "name": "108 Heroes",
+              "image": "/images/RtpGame/microgaming/SMG_108Heroes.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4003-d2fd-3ece-0170-babb246c8d9e",
+              "name": "15 Tridents",
+              "image": "/images/RtpGame/microgaming/SMG_15Tridents.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4003-d2fd-3ece-0170-babb246c8da0",
+              "name": "25000 Talons",
+              "image": "/images/RtpGame/microgaming/SMG_25000Talons.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4003-d2fd-3ece-0170-babb246c8da2",
+              "name": "4 Diamond Blues™ - Megaways™",
+              "image": "/images/RtpGame/microgaming/SMG_4DiamondBlues.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4003-d2fd-3ece-0170-babb246c8da6",
+              "name": "5 Reel Drive",
+              "image": "/images/RtpGame/microgaming/SMG_5ReelDrive.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4003-d2fe-0e70-7dae-944c898fd42d",
+              "name": "5 Star Knockout",
+              "image": "/images/RtpGame/microgaming/SMG_5StarKnockout.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4003-d2fe-0e70-7dae-944c898fd431",
+              "name": "777 Mega Deluxe™",
+              "image": "/images/RtpGame/microgaming/SMG_777MegaDeluxe.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4003-d2fe-0e70-7dae-944c898fd433",
+              "name": "777 Royal Wheel",
+              "image": "/images/RtpGame/microgaming/SMG_777RoyalWheel.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4003-d2fe-0e70-7dae-944c898fd435",
+              "name": "777 Super BigBuildUp™ Deluxe™",
+              "image": "/images/RtpGame/microgaming/SMG_777superBigBuildUpDeluxe.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4003-d2fe-0e70-7dae-944c898fd437",
+              "name": "777 Surge",
+              "image": "/images/RtpGame/microgaming/SMG_777Surge.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4003-d2fe-0e70-7dae-944c898fd43d",
+              "name": "9 Enchanted Beans",
+              "image": "/images/RtpGame/microgaming/SMG_9EnchantedBeans.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "kingmaker",
+          "image": "/images/RTPImage/kingmaker.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d356f-a66e-8c62-9dd7-a54115ca48ef",
+              "name": "Sugar Blast",
+              "image": "/images/RtpGame/kingmaker/KM-SLOT-001.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "jili",
+          "image": "/images/RTPImage/jili.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d356f-a6bc-748a-7f68-d06cb2bbd72b",
+              "name": "Hot Chilli",
+              "image": "/images/RtpGame/jili/JILI-SLOT-002.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-a6bc-748a-7f68-d06cb2bbd72d",
+              "name": "Chin Shi Huang",
+              "image": "/images/RtpGame/jili/JILI-SLOT-003.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-a6bc-748a-7f68-d06cb2bbd72f",
+              "name": "War Of Dragons",
+              "image": "/images/RtpGame/jili/JILI-SLOT-004.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-a6bc-748a-7f68-d06cb2bbd731",
+              "name": "Fortune Tree",
+              "image": "/images/RtpGame/jili/JILI-SLOT-005.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-a6bc-748a-7f68-d06cb2bbd733",
+              "name": "Lucky Ball",
+              "image": "/images/RtpGame/jili/JILI-SLOT-006.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-a6bc-748a-7f68-d06cb2bbd735",
+              "name": "Hyper Burst",
+              "image": "/images/RtpGame/jili/JILI-SLOT-007.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-a6bc-748a-7f68-d06cb2bbd737",
+              "name": "Shanghai Beauty",
+              "image": "/images/RtpGame/jili/JILI-SLOT-008.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-a6bd-feb8-a759-c64a7cb98905",
+              "name": "Fa Fa Fa",
+              "image": "/images/RtpGame/jili/JILI-SLOT-009.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-a6bd-feb8-a759-c64a7cb98907",
+              "name": "God Of Martial",
+              "image": "/images/RtpGame/jili/JILI-SLOT-010.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-a6bd-feb8-a759-c64a7cb98909",
+              "name": "Hawaii Beauty",
+              "image": "/images/RtpGame/jili/JILI-SLOT-012.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-a6bd-feb8-a759-c64a7cb9890b",
+              "name": "SevenSevenSeven",
+              "image": "/images/RtpGame/jili/JILI-SLOT-013.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-a6bd-feb8-a759-c64a7cb9890d",
+              "name": "Crazy777",
+              "image": "/images/RtpGame/jili/JILI-SLOT-014.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "fachai",
+          "image": "/images/RTPImage/fachai.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d356f-a719-17bd-14ca-74e08939d693",
+              "name": "GOLDEN PANTHER",
+              "image": "/images/RtpGame/fachai/FC-SLOT-001.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-a719-17bd-14ca-74e08939d695",
+              "name": "THREE LITTLE PIGS",
+              "image": "/images/RtpGame/fachai/FC-SLOT-002.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-a71a-b566-3882-f94376d094cd",
+              "name": "HOT POT PARTY",
+              "image": "/images/RtpGame/fachai/FC-SLOT-003.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-a71a-b566-3882-f94376d094cf",
+              "name": "NIGHT MARKET",
+              "image": "/images/RtpGame/fachai/FC-SLOT-004.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-a71a-b566-3882-f94376d094d1",
+              "name": "PONG PONG HU",
+              "image": "/images/RtpGame/fachai/FC-SLOT-005.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-a71a-b566-3882-f94376d094d3",
+              "name": "PANDA DRAGON BOAT",
+              "image": "/images/RtpGame/fachai/FC-SLOT-006.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-a71a-b566-3882-f94376d094d5",
+              "name": "CHINESE NEW YEAR",
+              "image": "/images/RtpGame/fachai/FC-SLOT-007.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-a71a-b566-3882-f94376d094d7",
+              "name": "FORTUNE KOI",
+              "image": "/images/RtpGame/fachai/FC-SLOT-008.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-a71a-b566-3882-f94376d094d9",
+              "name": "HAPPY DUO BAO",
+              "image": "/images/RtpGame/fachai/FC-SLOT-009.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-a71b-a732-9bca-3fff12a406a3",
+              "name": "DA LE MEN",
+              "image": "/images/RtpGame/fachai/FC-SLOT-010.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-a71b-a732-9bca-3fff12a406a5",
+              "name": "ANIMAL RACING",
+              "image": "/images/RtpGame/fachai/FC-SLOT-011.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-a71b-a732-9bca-3fff12a406a7",
+              "name": "LUXURY GOLDEN PANTHER",
+              "image": "/images/RtpGame/fachai/FC-SLOT-012.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "fastspin",
+          "image": "/images/RTPImage/fastspin.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d356f-b2e6-9311-0aa0-2d2ac5b348ab",
+              "name": "Royale House",
+              "image": "/images/RtpGame/fastspin/FastSpin-SLOT-001.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-b2e6-9311-0aa0-2d2ac5b348ad",
+              "name": "Sexy Vegas",
+              "image": "/images/RtpGame/fastspin/FastSpin-SLOT-002.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-b2e7-b950-e029-39f60654b964",
+              "name": "Roma",
+              "image": "/images/RtpGame/fastspin/FastSpin-SLOT-003.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-b2e7-b950-e029-39f60654b966",
+              "name": "Gold Rush Cowboy",
+              "image": "/images/RtpGame/fastspin/FastSpin-SLOT-004.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-b2e7-b950-e029-39f60654b968",
+              "name": "Wild Wet Win",
+              "image": "/images/RtpGame/fastspin/FastSpin-SLOT-005.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-b2e7-b950-e029-39f60654b96a",
+              "name": "Royal Katt",
+              "image": "/images/RtpGame/fastspin/FastSpin-SLOT-006.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-b2e7-b950-e029-39f60654b96c",
+              "name": "Rich Caishen",
+              "image": "/images/RtpGame/fastspin/FastSpin-SLOT-007.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-b2e7-b950-e029-39f60654b96e",
+              "name": "Muay Thai Fighter",
+              "image": "/images/RtpGame/fastspin/FastSpin-SLOT-008.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-b2e7-b950-e029-39f60654b970",
+              "name": "Poker Ways",
+              "image": "/images/RtpGame/fastspin/FastSpin-SLOT-009.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-b2e7-b950-e029-39f60654b972",
+              "name": "Triple Happiness",
+              "image": "/images/RtpGame/fastspin/FastSpin-SLOT-010.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-b2e8-3de9-1d66-a6f5a8361e07",
+              "name": "Lucky Fortune",
+              "image": "/images/RtpGame/fastspin/FastSpin-SLOT-011.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-b2e8-3de9-1d66-a6f5a8361e09",
+              "name": "Fruits Mania",
+              "image": "/images/RtpGame/fastspin/FastSpin-SLOT-012.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "mancala",
+          "image": "/images/RTPImage/mancala.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d3587-db3c-1069-e5a3-6678dafdc780",
+              "name": "Fruityliner Joker",
+              "image": "/images/RtpGame/mancala/iq6yovdneTxrbqC6-1704203413.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3587-db3d-c231-e25a-1c25d78e575c",
+              "name": "Boost the Wheel!",
+              "image": "/images/RtpGame/mancala/yWUn58w0VphCmbon-1702895539.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3587-db3d-c231-e25a-1c25d78e575e",
+              "name": "Santa the Slayer",
+              "image": "/images/RtpGame/mancala/r5FI3VgPAvkDbESv-1701789520.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3587-db3d-c231-e25a-1c25d78e5760",
+              "name": "Eternal Dynasty",
+              "image": "/images/RtpGame/mancala/UEBN669k8LudVDM0-1700575915.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3587-db3d-c231-e25a-1c25d78e5762",
+              "name": "Book of Wealth",
+              "image": "/images/RtpGame/mancala/uU4SHLUFz7O32F1Y-1683794204.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3587-db3d-c231-e25a-1c25d78e5764",
+              "name": "Fruit Collector",
+              "image": "/images/RtpGame/mancala/RmBGpo1FPeSk9QlH-1683794310.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3587-db3e-5ab5-84cf-7795bd8dfada",
+              "name": "Cherry Bombs",
+              "image": "/images/RtpGame/mancala/PGjOynC6c1FbUSwO-1683794274.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3587-db3e-5ab5-84cf-7795bd8dfadc",
+              "name": "Spirit of the Lake",
+              "image": "/images/RtpGame/mancala/IyYNtIQn8lzHCkhg-1683794504.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3587-db3e-5ab5-84cf-7795bd8dfade",
+              "name": "The Twin Wins Mystery",
+              "image": "/images/RtpGame/mancala/fjnJQZJciykDoZxy-1683795726.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3587-db3e-5ab5-84cf-7795bd8dfae2",
+              "name": "#BarsandBells",
+              "image": "/images/RtpGame/mancala/AmM6yVJnA4u5MJWR-1683794170.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3587-db3e-5ab5-84cf-7795bd8dfae4",
+              "name": "Caishen Gold: Dragon Awakes",
+              "image": "/images/RtpGame/mancala/KKt8A60V7XSh3Ge6-1684837066.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3587-db3e-5ab5-84cf-7795bd8dfae6",
+              "name": "Money Pipe",
+              "image": "/images/RtpGame/mancala/FgVeKP7bTKszMICX-1692352679.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "playstar",
+          "image": "/images/RTPImage/playstar.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d356f-ef42-2f6a-51b8-29aee3ca9d55",
+              "name": "ATHENA-LUCKY SPREAD",
+              "image": "/images/RtpGame/playstar/PSS-ON-00151.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-ef42-2f6a-51b8-29aee3ca9d57",
+              "name": "CAISHEN-LUCKY SPREAD",
+              "image": "/images/RtpGame/playstar/PSS-ON-00150.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-ef42-2f6a-51b8-29aee3ca9d59",
+              "name": "Lucky Ace",
+              "image": "/images/RtpGame/playstar/PSS-ON-00149.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-ef42-2f6a-51b8-29aee3ca9d5b",
+              "name": "MAHJONG WAYS 3+",
+              "image": "/images/RtpGame/playstar/PSS-ON-00146.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-ef42-2f6a-51b8-29aee3ca9d5d",
+              "name": "MAHJONG WAYS 3",
+              "image": "/images/RtpGame/playstar/PSS-ON-00141.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-ef42-2f6a-51b8-29aee3ca9d5f",
+              "name": "777",
+              "image": "/images/RtpGame/playstar/PSS-ON-00025.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-ef43-6885-4eaa-c06e82b4225a",
+              "name": "CAISHEN DADDY",
+              "image": "/images/RtpGame/playstar/PSS-ON-00152.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-ef43-6885-4eaa-c06e82b4225c",
+              "name": "MYSTIC LEGEND 2",
+              "image": "/images/RtpGame/playstar/PSS-ON-00153.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-ef43-6885-4eaa-c06e82b4225e",
+              "name": "SUPER LUCKY",
+              "image": "/images/RtpGame/playstar/PSS-ON-00154.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-ef43-6885-4eaa-c06e82b42260",
+              "name": "TREASURES OF AZTEC Z",
+              "image": "/images/RtpGame/playstar/PSS-ON-00147.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-ef43-6885-4eaa-c06e82b42262",
+              "name": "SUGAR BOOM",
+              "image": "/images/RtpGame/playstar/PSS-ON-00148.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d356f-ef43-6885-4eaa-c06e82b42264",
+              "name": "SUPER WIN",
+              "image": "/images/RtpGame/playstar/PSS-ON-00112.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "bigtimegaming",
+          "image": "/images/RTPImage/bigtimegaming.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018f9eeb-beee-b883-0aac-07f1bf34976b",
+              "name": "Pop",
+              "image": "/images/RtpGame/bigtimegaming/btg_pop_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eeb-beee-b883-0aac-07f1bf34976d",
+              "name": "More Turkey",
+              "image": "/images/RtpGame/bigtimegaming/btg_moreturkey_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eeb-beee-b883-0aac-07f1bf34976f",
+              "name": "Big Bad Bison",
+              "image": "/images/RtpGame/bigtimegaming/btg_bigbadbison_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eeb-beee-b883-0aac-07f1bf349771",
+              "name": "Christmas Bonanza",
+              "image": "/images/RtpGame/bigtimegaming/btg_christmasbonanza_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eeb-beee-b883-0aac-07f1bf349773",
+              "name": "Outlaw",
+              "image": "/images/RtpGame/bigtimegaming/btg_outlaw_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eeb-beef-8936-10af-9b0cc9c9606e",
+              "name": "Bonanza Falls",
+              "image": "/images/RtpGame/bigtimegaming/btg_bonanzafalls_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eeb-beef-8936-10af-9b0cc9c96070",
+              "name": "Golden Catch",
+              "image": "/images/RtpGame/bigtimegaming/btg_goldencatch_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eeb-beef-8936-10af-9b0cc9c96072",
+              "name": "Pirate Pays",
+              "image": "/images/RtpGame/bigtimegaming/btg_piratepays_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eeb-beef-8936-10af-9b0cc9c96074",
+              "name": "Vegas Megaways",
+              "image": "/images/RtpGame/bigtimegaming/btg_vegasmegaways_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eeb-beef-8936-10af-9b0cc9c96076",
+              "name": "Kingmaker Fully Loaded",
+              "image": "/images/RtpGame/bigtimegaming/btg_kingmakerfullyloaded_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eeb-beef-8936-10af-9b0cc9c96078",
+              "name": "Millionaire Rush",
+              "image": "/images/RtpGame/bigtimegaming/btg_millionairerush_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eeb-beef-8936-10af-9b0cc9c9607a",
+              "name": "Vegas Rush",
+              "image": "/images/RtpGame/bigtimegaming/btg_vegasrush_med_L.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "netent",
+          "image": "/images/RTPImage/netent.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018f9eeb-d20d-8d7d-7bf5-8edeeee1ed96",
+              "name": "Archangels Salvation",
+              "image": "/images/RtpGame/netent/archangels_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eeb-d20e-77a0-ae92-d1a2cb22aa9d",
+              "name": "Jumanji",
+              "image": "/images/RtpGame/netent/jumanji_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eeb-d20e-77a0-ae92-d1a2cb22aa9f",
+              "name": "Neon Staxx",
+              "image": "/images/RtpGame/netent/neonstaxx_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eeb-d20e-77a0-ae92-d1a2cb22aaa1",
+              "name": "Flowers Christmas Edition",
+              "image": "/images/RtpGame/netent/flowerschristmas_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eeb-d20e-77a0-ae92-d1a2cb22aaa3",
+              "name": "Rage of the Seas",
+              "image": "/images/RtpGame/netent/rageoftheseas_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eeb-d20e-77a0-ae92-d1a2cb22aaa5",
+              "name": "Joker Pro",
+              "image": "/images/RtpGame/netent/jokerpro_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eeb-d20e-77a0-ae92-d1a2cb22aaa7",
+              "name": "Street Fighter II: The World Warrior Slot",
+              "image": "/images/RtpGame/netent/streetfighter2_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eeb-d20f-bbcf-754d-60421df87824",
+              "name": "Coins of Egypt",
+              "image": "/images/RtpGame/netent/hiddencoiofegypt_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eeb-d20f-bbcf-754d-60421df87826",
+              "name": "Grand Spinn",
+              "image": "/images/RtpGame/netent/grandspinn_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eeb-d20f-bbcf-754d-60421df87828",
+              "name": "The Invisible Man",
+              "image": "/images/RtpGame/netent/invisibleman_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eeb-d20f-bbcf-754d-60421df8782a",
+              "name": "Thrill to Grill",
+              "image": "/images/RtpGame/netent/thrilltogrir_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eeb-d20f-bbcf-754d-60421df8782c",
+              "name": "Victorious",
+              "image": "/images/RtpGame/netent/victorious_med_L.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "nolimitcity",
+          "image": "/images/RTPImage/nolimitcity.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "01900db9-40cc-4ffe-66ae-8597cb3ddfa4",
+              "name": "Hot 4 Cash",
+              "image": "/images/RtpGame/nolimitcity/hot4cash_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "01900db9-40cc-4ffe-66ae-8597cb3ddfaa",
+              "name": "The Rave",
+              "image": "/images/RtpGame/nolimitcity/therave_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "01900db9-40cc-4ffe-66ae-8597cb3ddfae",
+              "name": "True Kult",
+              "image": "/images/RtpGame/nolimitcity/truekult_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "01900db9-40cd-9e37-bc4a-be0857ab1c8a",
+              "name": "Misery Mining",
+              "image": "/images/RtpGame/nolimitcity/miserymining_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "01900db9-40cd-9e37-bc4a-be0857ab1c8e",
+              "name": "Starstruck",
+              "image": "/images/RtpGame/nolimitcity/starstruck_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "01900db9-40cd-9e37-bc4a-be0857ab1c92",
+              "name": "Tombstone",
+              "image": "/images/RtpGame/nolimitcity/tombstone_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "01900db9-40cd-9e37-bc4a-be0857ab1c98",
+              "name": "Land Of The Free",
+              "image": "/images/RtpGame/nolimitcity/landofthefree_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "01900db9-40ce-0630-8253-436324d757a0",
+              "name": "Deadwood xNudge",
+              "image": "/images/RtpGame/nolimitcity/deadwood_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "01900db9-40ce-0630-8253-436324d757a6",
+              "name": "Poison Eve",
+              "image": "/images/RtpGame/nolimitcity/poisoneve_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "01900db9-40ce-0630-8253-436324d757a8",
+              "name": "The Creepy Carnival",
+              "image": "/images/RtpGame/nolimitcity/thecreepyarnival_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "01900db9-40ce-0630-8253-436324d757ac",
+              "name": "Thor Hammer Time",
+              "image": "/images/RtpGame/nolimitcity/thor_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "01900db9-40ce-0630-8253-436324d757ae",
+              "name": "Dj Psycho",
+              "image": "/images/RtpGame/nolimitcity/djpsycho_med_L.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "redtiger",
+          "image": "/images/RTPImage/redtiger.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018f9eec-009b-8e97-ad86-72b9c2bf63e9",
+              "name": "Fruit Snap",
+              "image": "/images/RtpGame/redtiger/fruitsnap_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eec-009b-8e97-ad86-72b9c2bf63eb",
+              "name": "Get The Gold InfiniReels",
+              "image": "/images/RtpGame/redtiger/getthegoldinfini_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eec-009b-8e97-ad86-72b9c2bf63ed",
+              "name": "Lucky Carnival",
+              "image": "/images/RtpGame/redtiger/luckycarnival_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eec-009b-8e97-ad86-72b9c2bf63ef",
+              "name": "Tiki Fruits",
+              "image": "/images/RtpGame/redtiger/tikifruits_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eec-009b-8e97-ad86-72b9c2bf63f1",
+              "name": "Winter Wonders",
+              "image": "/images/RtpGame/redtiger/winterwonders_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eec-009b-8e97-ad86-72b9c2bf63f3",
+              "name": "Win Escalator",
+              "image": "/images/RtpGame/redtiger/winescalator_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eec-009b-8e97-ad86-72b9c2bf63f5",
+              "name": "The Wild Kiss",
+              "image": "/images/RtpGame/redtiger/thewildkiss_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eec-009b-8e97-ad86-72b9c2bf63f7",
+              "name": "Reel Heist",
+              "image": "/images/RtpGame/redtiger/reelheist_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eec-009c-1a4d-ace1-19267ad889f5",
+              "name": "Aurum Codex",
+              "image": "/images/RtpGame/redtiger/aurumcodex_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eec-009c-1a4d-ace1-19267ad889f7",
+              "name": "Spooky Carnival",
+              "image": "/images/RtpGame/redtiger/spookycarnival_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eec-009c-1a4d-ace1-19267ad889f9",
+              "name": "Tiki Fruits Totem Frenzy",
+              "image": "/images/RtpGame/redtiger/tikifruitstotemf_med_L.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f9eec-009c-1a4d-ace1-19267ad889fb",
+              "name": "Narcos Mexico",
+              "image": "/images/RtpGame/redtiger/narcosmexico_med_L.webp",
+
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "casino",
+      "data": [
+        {
+          "name": "Pragmatic Play",
+          "image": "/images/RTPImage/pragmaticplay.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "0190e042-6029-7492-3864-ca1917476824",
+              "name": "Spaceman",
+              "image": "/images/RtpGame/pragmaticplay/1301.webp",
+
+              "tags": [
+                {
+                  "name": "HOT GAMES",
+                  "color": "#FF0303",
+                  "url": "/images/gametag/54dcf891-a253-48e5-8e88-bf54fefe1d52.svg"
+                }
+              ]
+            },
+            {
+              "id": "0194f503-ec13-72e9-8fa9-c00bebee143d",
+              "name": "Vietnamese Speed Baccarat 2",
+              "image": "/images/RtpGame/pragmaticplay/480.webp",
+
+              "tags": []
+            },
+            {
+              "id": "0195191e-0ed5-93c3-ee94-d8bad7f97c74",
+              "name": "Indonesian BlackjackX 10",
+              "image": "/images/RtpGame/pragmaticplay/3314.webp",
+
+              "tags": []
+            },
+            {
+              "id": "0195191e-0ed7-d990-a113-a2fa913c5926",
+              "name": "Indonesian BlackjackX 11",
+              "image": "/images/RtpGame/pragmaticplay/3315.webp",
+
+              "tags": []
+            },
+            {
+              "id": "0195191e-0ed8-5b64-d31a-52e8437ec75a",
+              "name": "Indonesian BlackjackX 12",
+              "image": "/images/RtpGame/pragmaticplay/3316.webp",
+
+              "tags": []
+            },
+            {
+              "id": "0195191e-0ed8-5b64-d31a-52e8437ec75c",
+              "name": "Indonesian BlackjackX 13",
+              "image": "/images/RtpGame/pragmaticplay/3317.webp",
+
+              "tags": []
+            },
+            {
+              "id": "0195191e-0ed8-5b64-d31a-52e8437ec75e",
+              "name": "Indonesian BlackjackX 14",
+              "image": "/images/RtpGame/pragmaticplay/3318.webp",
+
+              "tags": []
+            },
+            {
+              "id": "0195191e-0ed8-5b64-d31a-52e8437ec760",
+              "name": "Indonesian BlackjackX 15",
+              "image": "/images/RtpGame/pragmaticplay/3319.webp",
+
+              "tags": []
+            },
+            {
+              "id": "0195191e-0ed9-a161-f954-83aa65cd2fee",
+              "name": "Indonesian BlackjackX 6",
+              "image": "/images/RtpGame/pragmaticplay/3310.webp",
+
+              "tags": []
+            },
+            {
+              "id": "0195191e-0ed9-a161-f954-83aa65cd2ff0",
+              "name": "Indonesian BlackjackX 7",
+              "image": "/images/RtpGame/pragmaticplay/3311.webp",
+
+              "tags": []
+            },
+            {
+              "id": "0195191e-0ed9-a161-f954-83aa65cd2ff2",
+              "name": "Indonesian BlackjackX 8",
+              "image": "/images/RtpGame/pragmaticplay/3312.webp",
+
+              "tags": []
+            },
+            {
+              "id": "0195191e-0ed9-a161-f954-83aa65cd2ff4",
+              "name": "Indonesian BlackjackX 9",
+              "image": "/images/RtpGame/pragmaticplay/3313.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "sbo",
+          "image": "/images/RTPImage/sbo.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d48cc-e1e5-45b5-0798-cf8ef2b19bcc",
+              "name": "Lobby",
+              "image": "/images/RtpGame/sbo/7-0.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d48cc-e1e6-9110-c6a1-968939d0ed0f",
+              "name": "Baccarat",
+              "image": "/images/RtpGame/sbo/7-1.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d48cc-e1e6-9110-c6a1-968939d0ed11",
+              "name": "Roulette",
+              "image": "/images/RtpGame/sbo/7-3.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d48cc-e1e6-9110-c6a1-968939d0ed13",
+              "name": "SicBo",
+              "image": "/images/RtpGame/sbo/7-5.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d48cc-e1e6-9110-c6a1-968939d0ed15",
+              "name": "DragonTiger",
+              "image": "/images/RtpGame/sbo/7-9.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d48cc-e1e6-9110-c6a1-968939d0ed17",
+              "name": "MultipleTableBaccarat",
+              "image": "/images/RtpGame/sbo/7-10.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d48cc-e1e6-9110-c6a1-968939d0ed19",
+              "name": "SpeedBaccarat",
+              "image": "/images/RtpGame/sbo/7-12.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "aesexy",
+          "image": "/images/RTPImage/aesexy.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d3569-1922-7f83-b44c-3c847c9bdbfd",
+              "name": "Baccarat Classic",
+              "image": "/images/RtpGame/sexy/MX-LIVE-001.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3569-1923-28c7-cd77-16395d1f3a4e",
+              "name": "Baccarat",
+              "image": "/images/RtpGame/sexy/MX-LIVE-002.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3569-1923-28c7-cd77-16395d1f3a50",
+              "name": "Baccarat Insurance",
+              "image": "/images/RtpGame/sexy/MX-LIVE-003.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3569-1923-28c7-cd77-16395d1f3a52",
+              "name": "DragonTiger",
+              "image": "/images/RtpGame/sexy/MX-LIVE-006.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3569-1923-28c7-cd77-16395d1f3a54",
+              "name": "SicBo",
+              "image": "/images/RtpGame/sexy/MX-LIVE-007.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3569-1923-28c7-cd77-16395d1f3a56",
+              "name": "Roulette",
+              "image": "/images/RtpGame/sexy/MX-LIVE-009.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3569-1923-28c7-cd77-16395d1f3a58",
+              "name": "Red Blue Duel",
+              "image": "/images/RtpGame/sexy/MX-LIVE-010.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3569-1923-28c7-cd77-16395d1f3a5a",
+              "name": "Extra Andar Bahar",
+              "image": "/images/RtpGame/sexy/MX-LIVE-012.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3569-1923-28c7-cd77-16395d1f3a5c",
+              "name": "Thai Hi Lo",
+              "image": "/images/RtpGame/sexy/MX-LIVE-014.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3569-1923-28c7-cd77-16395d1f3a5e",
+              "name": "Thai Fish Prawn Crab",
+              "image": "/images/RtpGame/sexy/MX-LIVE-015.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3569-1924-9e89-14b3-c38f41003850",
+              "name": "Extra Sicbo",
+              "image": "/images/RtpGame/sexy/MX-LIVE-016.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "ion",
+          "image": "/images/RTPImage/ion.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d3fee-eb1e-230e-14a8-7540cfeeab95",
+              "name": "Baccarat",
+              "image": "/images/RtpGame/ion/BACCARAT.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3fee-eb1e-230e-14a8-7540cfeeab97",
+              "name": "Roulette",
+              "image": "/images/RtpGame/ion/ROULETTE.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3fee-eb1f-b6ed-b3da-063878eefb74",
+              "name": "Sicbo",
+              "image": "/images/RtpGame/ion/SICBO.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d3fee-eb1f-b6ed-b3da-063878eefb76",
+              "name": "Dragontiger",
+              "image": "/images/RtpGame/ion/DRAGONTIGER.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "allbet",
+          "image": "/images/RTPImage/allbet.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d7d68-0a7c-5abe-34e7-13c3f2b05f78",
+              "name": "Normal Baccarat",
+              "image": "/images/RtpGame/allbet/101.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d7d68-0a7c-5abe-34e7-13c3f2b05f7a",
+              "name": "VIP Baccarat",
+              "image": "/images/RtpGame/allbet/102.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d7d68-0a7c-5abe-34e7-13c3f2b05f7c",
+              "name": "Quick Baccarat",
+              "image": "/images/RtpGame/allbet/103.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d7d68-0a7c-5abe-34e7-13c3f2b05f7e",
+              "name": "See Card Baccarat",
+              "image": "/images/RtpGame/allbet/104.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d7d68-0a7c-5abe-34e7-13c3f2b05f80",
+              "name": "Insurance Baccarat",
+              "image": "/images/RtpGame/allbet/110.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d7d68-0a7c-5abe-34e7-13c3f2b05f82",
+              "name": "SicBo(HiLo)",
+              "image": "/images/RtpGame/allbet/201.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d7d68-0a7c-5abe-34e7-13c3f2b05f84",
+              "name": "Dragon Tiger",
+              "image": "/images/RtpGame/allbet/301.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d7d68-0a7c-5abe-34e7-13c3f2b05f86",
+              "name": "Roulette",
+              "image": "/images/RtpGame/allbet/401.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d7d68-0a7c-5abe-34e7-13c3f2b05f88",
+              "name": "Classic Pok Deng / Two Sides Pok Deng",
+              "image": "/images/RtpGame/allbet/501.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "spade",
+          "image": "/images/RTPImage/spade.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d4003-a6d6-d08d-15e5-47abe1c556d7",
+              "name": "Sedie",
+              "image": "/images/RtpGame/spade/C-SD01.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4003-a6d7-2fbc-425d-1c726e95e2fc",
+              "name": "Roulette",
+              "image": "/images/RtpGame/spade/C-RT01.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4003-a6d7-2fbc-425d-1c726e95e2fe",
+              "name": "Thai Hi Lo",
+              "image": "/images/RtpGame/spade/C-TH01.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4003-a6d7-2fbc-425d-1c726e95e300",
+              "name": "Dragon Tiger",
+              "image": "/images/RtpGame/spade/C-DT01.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4003-a6d7-2fbc-425d-1c726e95e302",
+              "name": "Fish Prawn Crab 2",
+              "image": "/images/RtpGame/spade/C-TF03.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4003-a6d7-2fbc-425d-1c726e95e304",
+              "name": "Belangkai",
+              "image": "/images/RtpGame/spade/C-BK01.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4003-a6d7-2fbc-425d-1c726e95e306",
+              "name": "Sic Bo",
+              "image": "/images/RtpGame/spade/C-SB01.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4003-a6d7-2fbc-425d-1c726e95e308",
+              "name": "Pok Deng",
+              "image": "/images/RtpGame/spade/C-PD01.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4003-a6d7-2fbc-425d-1c726e95e30a",
+              "name": "Thai Fish Prawn Crab",
+              "image": "/images/RtpGame/spade/C-TF02.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4003-a6d7-2fbc-425d-1c726e95e30e",
+              "name": "Pineapple Poker",
+              "image": "/images/RtpGame/spade/C-PP01.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4003-a6d7-2fbc-425d-1c726e95e310",
+              "name": "Bull Fighting",
+              "image": "/images/RtpGame/spade/C-BF01.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4003-a6d8-2136-87a3-a5c32b18ac02",
+              "name": "Banker Bull",
+              "image": "/images/RtpGame/spade/C-BB01.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "microgaming",
+          "image": "/images/RTPImage/microgaming.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d4003-ead9-269c-4f06-a6a20b75ca1f",
+              "name": "Baccarat",
+              "image": "/images/RtpGame/microgaming/SMG_titaniumLiveGames_MP_Baccarat.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4003-ead9-269c-4f06-a6a20b75ca25",
+              "name": "Bonus Baccarat",
+              "image": "/images/RtpGame/microgaming/SMG_titaniumLiveGames_Baccarat.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4003-ead9-269c-4f06-a6a20b75ca27",
+              "name": "No Commission Baccarat",
+              "image": "/images/RtpGame/microgaming/SMG_titaniumLiveGames_BaccaratNC.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4003-ead9-269c-4f06-a6a20b75ca29",
+              "name": "Roulette ",
+              "image": "/images/RtpGame/microgaming/SMG_titaniumLiveGames_Roulette.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4003-ead9-269c-4f06-a6a20b75ca2d",
+              "name": "Sicbo",
+              "image": "/images/RtpGame/microgaming/SMG_titaniumLiveGames_Sicbo.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "evolution",
+          "image": "/images/RTPImage/evolution.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018f19d9-4a7d-d79b-37ec-8d0052f3b0a5",
+              "name": "Speed Blackjack K",
+              "image": "/images/RtpGame/evolution/k4r2ejwx4eqqb6tv.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f19d9-4a7e-1d1a-a570-05c03bdab801",
+              "name": "Speed Roulette",
+              "image": "/images/RtpGame/evolution/lkcbrbdckjxajdol.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f19d9-4a7e-1d1a-a570-05c03bdab803",
+              "name": "Blackjack VIP 9",
+              "image": "/images/RtpGame/evolution/pdk5xfrkjkgepmlq.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f19d9-4a7e-1d1a-a570-05c03bdab805",
+              "name": "Speed VIP Blackjack O",
+              "image": "/images/RtpGame/evolution/SpeedBlackjack15.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f19d9-4a7e-1d1a-a570-05c03bdab807",
+              "name": "Speed Blackjack L",
+              "image": "/images/RtpGame/evolution/k4r2hyhw4eqqb6us.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f19d9-4a7e-1d1a-a570-05c03bdab809",
+              "name": "First Person Top Card",
+              "image": "/images/RtpGame/evolution/rng-topcard00001.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f19d9-4a7e-1d1a-a570-05c03bdab80b",
+              "name": "Speed Auto Roulette",
+              "image": "/images/RtpGame/evolution/SpeedAutoRo00001.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f19d9-4a7e-1d1a-a570-05c03bdab80d",
+              "name": "Speed Super Sic Bo",
+              "image": "/images/RtpGame/evolution/InstantSSB000001.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f19d9-4a7f-5ff5-8a58-fe2c04f6feed",
+              "name": "Blackjack VIP U",
+              "image": "/images/RtpGame/evolution/bciewncrf5ijneys.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f19d9-4a7f-5ff5-8a58-fe2c04f6feef",
+              "name": "Speed VIP Blackjack L",
+              "image": "/images/RtpGame/evolution/qfyy4jm6rixfbllh.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f19d9-4a7f-5ff5-8a58-fe2c04f6fef1",
+              "name": "Speed Baccarat 2",
+              "image": "/images/RtpGame/evolution/qsf7alptyvbqohva.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018f19d9-4a7f-5ff5-8a58-fe2c04f6fef3",
+              "name": "Speed VIP Blackjack K",
+              "image": "/images/RtpGame/evolution/qfyyxolocjhfau7y.webp",
+
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sport",
+      "data": [
+        {
+          "name": "sbo",
+          "image": "/images/RTPImage/sbo.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d48ca-211f-29e8-df87-1252dd8ae34b",
+              "name": "SportsBook",
+              "image": "/images/RtpGame/sbo/1.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d48ca-2120-9801-47b7-ff52250adfb8",
+              "name": "Virtual Sports",
+              "image": "/images/RtpGame/sbo/5.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d5dc1-6c5c-0f51-7ee7-0e19f5f1b879",
+              "name": "Live Bingo!",
+              "image": "/images/RtpGame/sbo/3.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "ug",
+          "image": "https://res.cloudinary.com/dmpwyrbid/image/upload/c_pad,w_127,h_71,ar_16:9/v1742882112/ug_kcwv6y.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018ead86-a6dd-4ed1-ec27-6ac891617fd0",
+              "name": "Sportsbook",
+              "image": "/images/RtpGame/ug/1.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "asub",
+          "image": "https://res.cloudinary.com/dmpwyrbid/image/upload/c_pad,w_127,h_71,ar_16:9/v1742882112/asub_kkzxjz.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "01913165-3c47-04d1-f925-afd9feb42f19",
+              "name": "Sportsbook",
+              "image": "/images/RtpGame/asub/1.webp",
+
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "fishing",
+      "data": [
+        {
+          "name": "joker",
+          "image": "/images/RTPImage/joker.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d6de0-bd81-9366-1285-873edfd1316e",
+              "name": "Insect Paradise",
+              "image": "/images/RtpGame/joker/ddpg1amgc71gk.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6de0-bd82-93a3-fec5-c8ae2a342631",
+              "name": "Bird Paradise",
+              "image": "/images/RtpGame/joker/xq9ohbyf9m79o.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6de0-bd82-93a3-fec5-c8ae2a342633",
+              "name": "Fish Hunter Spongebob",
+              "image": "/images/RtpGame/joker/4omkmmpnwqokn.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6de0-bd82-93a3-fec5-c8ae2a342635",
+              "name": "Fish Haiba",
+              "image": "/images/RtpGame/joker/kk8nqm3cfwtng.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6de0-bd82-93a3-fec5-c8ae2a342637",
+              "name": "Fish Hunting: Happy Fish 5",
+              "image": "/images/RtpGame/joker/st5cmuqnaxycn.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6de0-bd82-93a3-fec5-c8ae2a342639",
+              "name": "Fish Hunter 2 EX - Newbie",
+              "image": "/images/RtpGame/joker/xkhy6baryz7xs.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6de0-bd82-93a3-fec5-c8ae2a34263b",
+              "name": "Fish Hunter Monster Awaken",
+              "image": "/images/RtpGame/joker/1jeqx59c7ztqg.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6de0-bd83-51a0-8715-7708c73a8c7d",
+              "name": "Fishermans Wharf",
+              "image": "/images/RtpGame/joker/p63ornyjba8oa.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6de0-bd83-51a0-8715-7708c73a8c7f",
+              "name": "Fish Hunting: Golden Toad",
+              "image": "/images/RtpGame/joker/b8rzo7uzqt4sw.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6de0-bd83-51a0-8715-7708c73a8c81",
+              "name": "Fish Hunting: Da Sheng Nao Hai",
+              "image": "/images/RtpGame/joker/8d7r1okge7nrk.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6de0-bd83-51a0-8715-7708c73a8c83",
+              "name": "Fish Hunting: Yao Qian Shu",
+              "image": "/images/RtpGame/joker/wi17jwsu4de7c.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6de0-bd83-51a0-8715-7708c73a8c85",
+              "name": "Fish Hunter 2 EX - Novice",
+              "image": "/images/RtpGame/joker/qq5ocdypyeboy.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "cq9",
+          "image": "/images/RTPImage/cq9.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d35b8-668f-ab09-3c25-3b50b5e86092",
+              "name": "Oneshot Fishing",
+              "image": "/images/RtpGame/cq9/cq9-AT01.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d35b8-668f-ab09-3c25-3b50b5e86094",
+              "name": "Hero Fishing",
+              "image": "/images/RtpGame/cq9/cq9-GO02.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "jdbfish",
+          "image": "/images/RTPImage/jdbfish.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d6de4-f544-bb57-d549-4895c95ddec0",
+              "name": "CaiShenFishing",
+              "image": "/images/RtpGame/jdbfish/JDB-FISH-002.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6de4-f545-c0e1-d60c-9fe96f390759",
+              "name": "Fishing YiLuFa",
+              "image": "/images/RtpGame/jdbfish/JDB-FISH-005.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6de4-f545-c0e1-d60c-9fe96f39075b",
+              "name": "Dragon Master",
+              "image": "/images/RtpGame/jdbfish/JDB-FISH-006.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6de4-f545-c0e1-d60c-9fe96f39075d",
+              "name": "Fishing Disco",
+              "image": "/images/RtpGame/jdbfish/JDB-FISH-007.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "jili",
+          "image": "/images/RTPImage/jili.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d6de4-f548-d093-a99f-71b0f01cc8d3",
+              "name": "Royal Fishing",
+              "image": "/images/RtpGame/jili/JILI-FISH-001.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6de4-f549-8493-1af7-8bf008340990",
+              "name": "Bombing Fishing",
+              "image": "/images/RtpGame/jili/JILI-FISH-002.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6de4-f549-8493-1af7-8bf008340992",
+              "name": "Jackpot Fishing",
+              "image": "/images/RtpGame/jili/JILI-FISH-003.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6de4-f549-8493-1af7-8bf008340994",
+              "name": "Dinosaur Tycoon",
+              "image": "/images/RtpGame/jili/JILI-FISH-004.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6de4-f549-8493-1af7-8bf008340996",
+              "name": "Happy Fishing",
+              "image": "/images/RtpGame/jili/JILI-FISH-005.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6de4-f549-8493-1af7-8bf008340998",
+              "name": "Dragon Fortune",
+              "image": "/images/RtpGame/jili/JILI-FISH-006.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6de4-f549-8493-1af7-8bf00834099a",
+              "name": "Mega Fishing",
+              "image": "/images/RtpGame/jili/JILI-FISH-007.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6de4-f549-8493-1af7-8bf00834099c",
+              "name": "Boom Legend",
+              "image": "/images/RtpGame/jili/JILI-FISH-008.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6de4-f549-8493-1af7-8bf00834099e",
+              "name": "All-star Fishing",
+              "image": "/images/RtpGame/jili/JILI-FISH-009.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "fachai",
+          "image": "/images/RTPImage/fachai.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d6de4-f53b-8823-c502-93c5de8e7a87",
+              "name": "Monkey King Fishing",
+              "image": "/images/RtpGame/fachai/FC-FISH-001.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6de4-f53c-3582-2fbd-7381e54ad3ec",
+              "name": "Bao Chuan Fishing",
+              "image": "/images/RtpGame/fachai/FC-FISH-002.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6de4-f53c-3582-2fbd-7381e54ad3ee",
+              "name": "FIERCE FISHING",
+              "image": "/images/RtpGame/fachai/FC-FISH-004.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6de4-f53c-3582-2fbd-7381e54ad3f0",
+              "name": "STAR HUNTER",
+              "image": "/images/RtpGame/fachai/FC-FISH-005.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "fastspin",
+          "image": "/images/RTPImage/fastspin.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d6de4-e957-1840-7e52-de2e73bec33b",
+              "name": "Fishing Treasure",
+              "image": "/images/RtpGame/fastspin/FastSpin-FISH-001.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "spade",
+          "image": "/images/RTPImage/spade.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d6ddc-d689-f562-6470-c26a85b706d4",
+              "name": "Zombie Party",
+              "image": "/images/RtpGame/spade/F-ZP01.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6ddc-d68a-b90d-c73a-f003fb23d838",
+              "name": "Alien Hunter",
+              "image": "/images/RtpGame/spade/F-AH01.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6ddc-d68a-b90d-c73a-f003fb23d83a",
+              "name": "Fishing God",
+              "image": "/images/RtpGame/spade/F-SF01.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d6ddc-d68a-b90d-c73a-f003fb23d83c",
+              "name": "Fishing War",
+              "image": "/images/RtpGame/spade/F-SF02.webp",
+
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "other",
+      "data": [
+        {
+          "name": "pgsoft",
+          "image": "/images/RTPImage/pgsoft.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d44b7-fdd0-93df-f3d7-15f51a19269b",
+              "name": "Baccarat Deluxe",
+              "image": "/images/RtpGame/pgsoft/31.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "spade",
+          "image": "/images/RTPImage/spade.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d98a8-530e-861f-bea0-590620ad6a4f",
+              "name": "Happy Hop",
+              "image": "/images/RtpGame/spade/A-HH01.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d98a8-530f-254a-e775-71aef44598d2",
+              "name": "Rob Stars",
+              "image": "/images/RtpGame/spade/A-RB01.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d98a8-530f-254a-e775-71aef44598d4",
+              "name": "Derby Night",
+              "image": "/images/RtpGame/spade/A-DN02.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d98a8-530f-254a-e775-71aef44598d6",
+              "name": "Golden Journey",
+              "image": "/images/RtpGame/spade/A-GJ01.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d98a8-530f-254a-e775-71aef44598d8",
+              "name": "Goblin Treasure",
+              "image": "/images/RtpGame/spade/A-GL02.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d98a8-530f-254a-e775-71aef44598da",
+              "name": "PinBall Fortune",
+              "image": "/images/RtpGame/spade/A-PF02.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d98a8-530f-254a-e775-71aef44598dc",
+              "name": "Dragon Clan",
+              "image": "/images/RtpGame/spade/A-SC02.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d98a8-530f-254a-e775-71aef44598de",
+              "name": "Shinobi Hamster",
+              "image": "/images/RtpGame/spade/A-SH02.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d98a8-530f-254a-e775-71aef44598e0",
+              "name": "Dragon Boat",
+              "image": "/images/RtpGame/spade/A-DB06.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d98a8-530f-254a-e775-71aef44598e2",
+              "name": "Animal Paradise",
+              "image": "/images/RtpGame/spade/A-AP02.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d98a8-5310-a803-c3af-74313e1aa8f4",
+              "name": "Bicycle Race",
+              "image": "/images/RtpGame/spade/A-DB04.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d98a8-5310-a803-c3af-74313e1aa8f6",
+              "name": "Dirt Bike",
+              "image": "/images/RtpGame/spade/A-DB05.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "cq9",
+          "image": "/images/RTPImage/cq9.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d35b8-7607-ddc5-cb03-fe66c5dce33e",
+              "name": "Thai HILO",
+              "image": "/images/RtpGame/cq9/cq9-207.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d35b8-7607-ddc5-cb03-fe66c5dce340",
+              "name": "Mini Roulette",
+              "image": "/images/RtpGame/cq9/cq9-213.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d35b8-7608-e4f3-c15e-b88e845f5de4",
+              "name": "Xoc Dia",
+              "image": "/images/RtpGame/cq9/cq9-216.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d35b8-7608-e4f3-c15e-b88e845f5de6",
+              "name": "K.O. Island",
+              "image": "/images/RtpGame/cq9/cq9-224.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d35b8-7608-e4f3-c15e-b88e845f5de8",
+              "name": "Seotda",
+              "image": "/images/RtpGame/cq9/cq9-GB10.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d35b8-7608-e4f3-c15e-b88e845f5dea",
+              "name": "Thai Fish Prawn Crab",
+              "image": "/images/RtpGame/cq9/cq9-GB11.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d35b8-7608-e4f3-c15e-b88e845f5dec",
+              "name": "Funky Bingo",
+              "image": "/images/RtpGame/cq9/cq9-GB14.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d35b8-7608-e4f3-c15e-b88e845f5dee",
+              "name": "Mummy's Treasure",
+              "image": "/images/RtpGame/cq9/cq9-GB7.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d35b8-7608-e4f3-c15e-b88e845f5df0",
+              "name": "Thai Pok Deng",
+              "image": "/images/RtpGame/cq9/cq9-GO03.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "habanero",
+          "image": "/images/RTPImage/habanero.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d358e-6155-1bf2-f874-2febc77ceffe",
+              "name": "American Blackjack",
+              "image": "/images/RtpGame/habanero/TGBlackjackAmerican.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d358e-6155-1bf2-f874-2febc77cf000",
+              "name": "Dragon Tiger",
+              "image": "/images/RtpGame/habanero/TGDragonTiger.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d358e-6155-1bf2-f874-2febc77cf002",
+              "name": "Double Exposure 3 Hand",
+              "image": "/images/RtpGame/habanero/BlackJack3HDoubleExposure.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d358e-6155-1bf2-f874-2febc77cf004",
+              "name": "Baccarat Zero Commission",
+              "image": "/images/RtpGame/habanero/Baccarat3HZC.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d358e-6156-2c43-fc76-2c096a6cf571",
+              "name": "Blackjack 3 Hand",
+              "image": "/images/RtpGame/habanero/BlackJack3H.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d358e-6156-2c43-fc76-2c096a6cf573",
+              "name": "Sic Bo",
+              "image": "/images/RtpGame/habanero/SicBo.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d358e-6156-2c43-fc76-2c096a6cf575",
+              "name": "Three Card Poker Deluxe",
+              "image": "/images/RtpGame/habanero/TGThreeCardPokerDeluxe.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d358e-6156-2c43-fc76-2c096a6cf577",
+              "name": "War",
+              "image": "/images/RtpGame/habanero/TGWar.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d358e-6156-2c43-fc76-2c096a6cf579",
+              "name": "Baccarat",
+              "image": "/images/RtpGame/habanero/AmericanBaccarat.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d358e-6156-2c43-fc76-2c096a6cf57b",
+              "name": "Caribbean Hold'em",
+              "image": "/images/RtpGame/habanero/CaribbeanHoldem.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d358e-6156-2c43-fc76-2c096a6cf57d",
+              "name": "Caribbean Stud",
+              "image": "/images/RtpGame/habanero/CaribbeanStud.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d358e-6156-2c43-fc76-2c096a6cf57f",
+              "name": "Three Card Poker",
+              "image": "/images/RtpGame/habanero/TGThreeCardPoker.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "microgaming",
+          "image": "/images/RTPImage/microgaming.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d4004-a2be-7afe-005b-f198c977c1c1",
+              "name": "Aces and Eights",
+              "image": "/images/RtpGame/microgaming/SMG_acesAndEights.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4004-a2be-7afe-005b-f198c977c1c3",
+              "name": "Aces and Faces",
+              "image": "/images/RtpGame/microgaming/SMG_acesAndFaces.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4004-a2be-7afe-005b-f198c977c1c7",
+              "name": "All Aces",
+              "image": "/images/RtpGame/microgaming/SMG_RubyAllAces.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4004-a2be-7afe-005b-f198c977c1c9",
+              "name": "Amazing Pharaoh",
+              "image": "/images/RtpGame/microgaming/SMG_amazingPharaoh.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4004-a2be-7afe-005b-f198c977c1cd",
+              "name": "American Roulette (Jade)",
+              "image": "/images/RtpGame/microgaming/SMG_switchAmericanRoulette.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4004-a2be-7afe-005b-f198c977c1cf",
+              "name": "American Roulette Gold",
+              "image": "/images/RtpGame/microgaming/SMG_americanRouletteGold.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4004-a2be-7afe-005b-f198c977c1d1",
+              "name": "Andar Bahar Royale",
+              "image": "/images/RtpGame/microgaming/SMG_andarBaharRoyale.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4004-a2be-7afe-005b-f198c977c1d3",
+              "name": "Astro Legends: Lyra and Erion",
+              "image": "/images/RtpGame/microgaming/SMG_astroLegendsLyraandErion.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4004-a2bf-8b78-09d8-4918f3d78240",
+              "name": "Atlantic City Blackjack (Jade)",
+              "image": "/images/RtpGame/microgaming/SMG_switchAtlanticCityBlackjack.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4004-a2bf-8b78-09d8-4918f3d78242",
+              "name": "Atlantic City Blackjack Gold",
+              "image": "/images/RtpGame/microgaming/SMG_atlanticCityBlackjackGold.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4004-a2bf-8b78-09d8-4918f3d78244",
+              "name": "Baccarat (Jade)",
+              "image": "/images/RtpGame/microgaming/SMG_switchBaccarat.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d4004-a2bf-8b78-09d8-4918f3d78248",
+              "name": "Bonus Deuces Wild",
+              "image": "/images/RtpGame/microgaming/SMG_bonusDeucesWild.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "allbet",
+          "image": "/images/RTPImage/allbet.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d7d67-fedd-ea51-a094-2c8f9fce4664",
+              "name": "Bull Bull",
+              "image": "/images/RtpGame/allbet/801.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d7d67-fedd-ea51-a094-2c8f9fce4666",
+              "name": "Win Three Cards / Three Pictures",
+              "image": "/images/RtpGame/allbet/901.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "fachai",
+          "image": "/images/RTPImage/fachai.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d972a-bd73-bc8c-746c-0c5d107a072d",
+              "name": "MONEY TREE DOZER",
+              "image": "/images/RtpGame/fachai/FC-EGAME-001.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d972a-bd74-a5da-d484-228780541974",
+              "name": "FA CHAI DOZER",
+              "image": "/images/RtpGame/fachai/FC-EGAME-002.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d972a-bd74-a5da-d484-228780541976",
+              "name": "Circus Dozer",
+              "image": "/images/RtpGame/fachai/FC-EGAME-003.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d972a-bd74-a5da-d484-228780541978",
+              "name": "LIGHTNING BOMB",
+              "image": "/images/RtpGame/fachai/FC-EGAME-004.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "kingmaker",
+          "image": "/images/RTPImage/kingmaker.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d972c-296a-bb67-293e-faee9e42b905",
+              "name": "thai-hi-lo2",
+              "image": "/images/RtpGame/kingmaker/KM-TABLE-009.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d972c-296b-5dba-7713-25ffbaba15d4",
+              "name": "belangkai2",
+              "image": "/images/RtpGame/kingmaker/KM-TABLE-010.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d972c-296b-5dba-7713-25ffbaba15d6",
+              "name": "dragon-tiger2",
+              "image": "/images/RtpGame/kingmaker/KM-TABLE-011.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d972c-296b-5dba-7713-25ffbaba15d8",
+              "name": "fish-prawn-crab2",
+              "image": "/images/RtpGame/kingmaker/KM-TABLE-013.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d972c-296b-5dba-7713-25ffbaba15da",
+              "name": "vn_fish-prawn-crab",
+              "image": "/images/RtpGame/kingmaker/KM-TABLE-014.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d972c-296b-5dba-7713-25ffbaba15dc",
+              "name": "sicbo",
+              "image": "/images/RtpGame/kingmaker/KM-TABLE-015.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d972c-296b-5dba-7713-25ffbaba15de",
+              "name": "taixiu",
+              "image": "/images/RtpGame/kingmaker/KM-TABLE-017.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d972c-296b-5dba-7713-25ffbaba15e0",
+              "name": "keno",
+              "image": "/images/RtpGame/kingmaker/KM-TABLE-018.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d972c-296b-5dba-7713-25ffbaba15e2",
+              "name": "thai-fpc",
+              "image": "/images/RtpGame/kingmaker/KM-TABLE-019.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d972c-296c-0f1c-753a-ee6c208a0ced",
+              "name": "Bài Cào",
+              "image": "/images/RtpGame/kingmaker/KM-TABLE-020.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d972c-296c-0f1c-753a-ee6c208a0cef",
+              "name": "NumberMatka",
+              "image": "/images/RtpGame/kingmaker/KM-TABLE-021.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d972c-296c-0f1c-753a-ee6c208a0cf1",
+              "name": "CardMatka",
+              "image": "/images/RtpGame/kingmaker/KM-TABLE-022.webp",
+
+              "tags": []
+            }
+          ]
+        },
+        {
+          "name": "jili",
+          "image": "/images/RTPImage/jili.webp",
+          "tags": [],
+          "games": [
+            {
+              "id": "018d9885-93e4-90db-55f9-051d888d2d29",
+              "name": "Teen Patti",
+              "image": "/images/RtpGame/jili/JILI-TABLE-001.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d9885-93e5-ca8c-d211-f69c46e9e0e2",
+              "name": "AK47",
+              "image": "/images/RtpGame/jili/JILI-TABLE-002.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d9885-93e5-ca8c-d211-f69c46e9e0e4",
+              "name": "Andar Bahar",
+              "image": "/images/RtpGame/jili/JILI-TABLE-003.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d9885-93e5-ca8c-d211-f69c46e9e0e6",
+              "name": "Rummy",
+              "image": "/images/RtpGame/jili/JILI-TABLE-004.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d9885-93e5-ca8c-d211-f69c46e9e0e8",
+              "name": "NumberKing",
+              "image": "/images/RtpGame/jili/JILI-TABLE-005.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d9885-93e5-ca8c-d211-f69c46e9e0ea",
+              "name": "Poker King",
+              "image": "/images/RtpGame/jili/JILI-TABLE-006.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d9885-93e5-ca8c-d211-f69c46e9e0ec",
+              "name": "Big small",
+              "image": "/images/RtpGame/jili/JILI-TABLE-007.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d9885-93e5-ca8c-d211-f69c46e9e0ee",
+              "name": "iRich Bingo",
+              "image": "/images/RtpGame/jili/JILI-TABLE-008.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d9885-93e5-ca8c-d211-f69c46e9e0f0",
+              "name": "Callbreak",
+              "image": "/images/RtpGame/jili/JILI-TABLE-009.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d9885-93e6-261f-9731-f9e166023379",
+              "name": "TeenPatti Joker",
+              "image": "/images/RtpGame/jili/JILI-TABLE-010.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d9885-93e6-261f-9731-f9e16602337b",
+              "name": "7up7down",
+              "image": "/images/RtpGame/jili/JILI-TABLE-011.webp",
+
+              "tags": []
+            },
+            {
+              "id": "018d9885-93e6-261f-9731-f9e16602337d",
+              "name": "Dragon & Tiger",
+              "image": "/images/RtpGame/jili/JILI-TABLE-012.webp",
+
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]

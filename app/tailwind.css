@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  @apply bg-black p-0 m-0 text-white font-sans;
+
+  @media (prefers-color-scheme: dark) {
+    color-scheme: dark;
+  }
+  text-rendering: optimizeSpeed;
+}
+
+* {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  scrollbar-width: thin;
+  scrollbar-color: darkgrey transparent;
+}
+
+.liearCustom
+{
+  background: linear-gradient(rgb(217, 173, 87) 12.5%, rgb(241, 230, 159) 31.46%, rgb(250, 239, 159) 47.86%, rgb(220, 170, 82) 65%) text;
+  -webkit-text-fill-color: transparent;
+}
+
+.textsidebar {
+  color: rgb(255, 244, 215);
+  text-transform: capitalize;
+}
+
+.scrollbar-hidden::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hidden {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
