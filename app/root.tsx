@@ -41,12 +41,12 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <link rel="preload" as="image" href="/logo.webm"></link>
         <link rel="icon" type="image/png" sizes="16x16" href="https://barkinbeanscoffeeco.com/storage/webpersonalize/ba8fe2f9-0def-44f5-afa9-af17749d775f.png"></link>
         <title>Raja Gacha: Situs Gacha Slot Gacor Gampang Menang Pragmatic Play</title>
-        <meta name="robots" content="index,follow"></meta>
+        {/* <meta name="robots" content="index,follow"></meta>
         <meta name="description" content="Raja Gacha adalah situs gacha slot gacor gampang menang pragmatic play anti rungkad dengan rtp slot terupdate, buruan cobain game gacha slot auto bikin kaya raya to the moon."></meta>
         <meta property="og:title" content="Raja Gacha: Situs gacha Slot Gacor Gampang Menang Pragmatic Play"></meta>
         <meta property="og:description" content="Raja Gacha adalah situs gacha slot gacor gampang menang pragmatic play anti rungkad dengan rtp slot terupdate, buruan cobain game gacha slot auto bikin kaya raya to the moon."></meta>
         <meta name="google-site-verification" content="<meta name=&quot;google-site-verification&quot; content=&quot;fmJgEDv98BjFvMCXr58_h2rFeMJLyT7KKfGshBMhP3c&quot; />"></meta>
-        <meta name="og:type" content="website"></meta>
+        <meta name="og:type" content="website"></meta> */}
          <link rel="amphtml" href="https://www.spaceman88-amp.com/" />
         <Meta />
         <Links />

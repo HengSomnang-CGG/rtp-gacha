@@ -46,7 +46,7 @@ export default function Header({ toggleSidebar }: HeaderProps) {
                         </div>
                         <div className="flex items-center">
                             <div className="overflow-hidden w-fit h-fit">
-                                <Link to="https://urlshortenertool.com/RTP-RM" target="_blank" rel="noopener noreferrer">
+                                <Link to="#" target="_blank" rel="noopener noreferrer">
                                     <div className="p-[1px] bg-borderJackpot rounded">
                                         <button title="register" type="button" className="min-h-[35px] py-0 px-[22px] cursor-pointer outline-none select-none flex justify-center items-center w-full text-white transition ease-out duration-[150] bg-shape">
                                             <span className="text-skyLightest text-[16px] font-500 leading-[21px]">

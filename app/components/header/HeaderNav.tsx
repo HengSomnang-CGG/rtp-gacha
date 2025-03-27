@@ -2,43 +2,43 @@ import { Link } from "@remix-run/react";
 
 const navitems = [
     {
-        url: "https://urlshortenertool.com/RTP-RM",
+      
         title: "Beranda",
     },
     {
-        url: "https://urlshortenertool.com/RTP-RM",
+      
         title: "Hot Games",
     },
     {
-        url: "https://urlshortenertool.com/RTP-RM",
+      
         title: "Slot",
     },
     {
-        url: "https://urlshortenertool.com/RTP-RM",
+      
         title: "Casino",
     },
     {
-        url: "https://urlshortenertool.com/RTP-RM",
+      
         title: "Sport",
     },
     {
-        url: "https://urlshortenertool.com/RTP-RM",
+      
         title: "Fishing",
     },
     {
-        url: "https://urlshortenertool.com/RTP-RM",
+      
         title: "Other",
     },
     {
-        url: "https://urlshortenertool.com/RTP-RM",
+      
         title: "Togel",
     },
     {
-        url: "https://urlshortenertool.com/RTP-RM",
+      
         title: "Promotion",
     },
     {
-        url: "https://urlshortenertool.com/RTP-RM",
+      
         title: "Bonus",
     },
 
@@ -77,7 +77,7 @@ export default function HeaderNav() {
                     <div className="mx-1"></div>
                     <div className="flex justify-evenly overflow-x-scroll ">
                         {navitems.map((item, index) => (
-                            <Link to={item.url} className="flex flex-1 px-2 hover:border-l-2 hover:border-r-2 hover:border-gray-300"
+                            <Link to={"#"} className="flex flex-1 px-2 hover:border-l-2 hover:border-r-2 hover:border-gray-300"
                                 key={index}
                                 target="_blank" rel="noreferrer">
                                 <div className="flex flex-1 ">

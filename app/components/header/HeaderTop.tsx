@@ -10,7 +10,7 @@ export default function HeaderTop() {
                 <div className="pt-2 lg:h-[67px] h-[89px] flex flex-start relative">
                     <div className="flex items-center flex-1 h-[80%]">
                         <div className="overflow-hidden w-fit h-fit">
-                            <Link to="https://storage.googleapis.com/hoki-mobile-apk-download/SPACEMAN88.apk" target="_blank" rel="noreferrer">
+                            <Link to="#" target="_blank" rel="noreferrer">
                                 <div className="p-[1px] bg-borderJackpot rounded">
                                     <button className="bg-primaryDefault min-h-[35px] p-[22px] py-0 cursor-pointer outline-none select-none flex justify-center w-full transition ease-out duration-150 items-center rounded">
                                         <span className="liearCustom text-[16px] font-[500] leading-[21px]">Download Aplikasi</span>
@@ -28,7 +28,7 @@ export default function HeaderTop() {
                             <div className="flex ">
                                 <div className="flex flex-col justify-between">
                                     <div className=" onverflow-hidden w-fit h-fit flex">
-                                        <Link to="https://urlshortenertool.com/RTP-RM" target="_blank" rel="noopener noreferrer">
+                                        <Link to="#" target="_blank" rel="noopener noreferrer">
                                             <div className="p-[1px] bg-borderJackpot rounded ">
                                                 <button type="button" className="min-h-8 py-0 px-[15px] bg-primaryDefault hover:bg-hoverNewTheme  cursor-pointer outline-none select-none flex justify-center w-full items-center transition ease-out duration-150 rounded">
                                                     <span className="c-bGnIb font-bold text-[14px] liearCustom">MASUK</span>
@@ -36,7 +36,7 @@ export default function HeaderTop() {
                                             </div></Link>
                                         <div className="px-1"></div>
                                         <div className="onverflow-hidden w-fit h-fit">
-                                            <Link to="https://urlshortenertool.com/RTP-RM" target="_blank" rel="noopener noreferrer">
+                                            <Link to="#" target="_blank" rel="noopener noreferrer">
                                                 <div className="p-[1px] rounded bg-white hover:bg-[#f1f1f1]">
                                                     <button type="button" className="min-h-8 py-0 px-[15px] cursor-pointer outline-non select-none felx justify-center w-full items-center transition ease-out duration-150 rounded">
                                                         <span className="text-black font-bold  text-[14px]">DAFTAR</span>
